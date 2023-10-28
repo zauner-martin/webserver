@@ -7,4 +7,4 @@ app.get('/', (req, res) => {
     res.send('hello from express');
 })
 
-app.listen(4000);
+app.listen(2000);
